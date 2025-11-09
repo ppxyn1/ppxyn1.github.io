@@ -8,11 +8,6 @@ redirect_from:
 ---
 
 <div class="row">
-  <!-- <div class="col-md-4">
-    <img src="/images/profile.jpg" alt="profile photo" style="width:100%; border-radius:15px;"> -->
-
-   <!-- <h2>About Me</h2> -->
-   <!-- <p><b>Machine Learning Engineer </b><br> -->
 <p style="color:#555;">
   I am <b>Youngjin</b>, a Junior Machine Learning Engineer.   
 My research focuses on developing efficient and trustworthy AI systems 🖥️ that contribute to solving real-world challenges—like protecting polar bears and our society 🐻‍❄️🌏.
@@ -62,8 +57,9 @@ style="color:#8e7cc3; text-decoration:none;">
    </div>
 <br>
 
+<section id="Publications">
 <h3>📚 Publications</h3>
-<p>
+<p  style="font-size: 0.9em;">
   <span style="font-weight:600;">SIA: Enhancing Safety via Intent Awareness for Vision-Language Models</span><br>
   <span style="font-weight:450;">Youngjin Na*</span>, 
   <span style="color:gray;">Sangheon Jeong*, Youngwan Lee*, Jian Lee, Dawoon Jeong, Youngman Kim</span><br>
@@ -72,6 +68,7 @@ style="color:#8e7cc3; text-decoration:none;">
   <a href="https://arxiv.org/abs/2507.16856" target="_blank"
   style="color:#8e7cc3; text-decoration:none;">[paper]</a>
 </p>
+</section>
 
 <br>
 
