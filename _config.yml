@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "prof2.png"
+  avatar           : "./images/prof2.png"
   name             : "Youngjin Na" # "Your Sidebar Name"
   bio              : "ML Engineer"
   location         : "Seoul, South Korea"
