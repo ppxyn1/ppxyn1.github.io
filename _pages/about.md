@@ -49,12 +49,20 @@ style="color:#8e7cc3; text-decoration:none;">
 <br>
 </div>
 
-   <h3>🎉 News</h3>
-   <div style="max-height:200px; overflow-y:auto; border:1px solid #eee; padding:10px; border-radius:10px;">
-     <ul>
-       <li style="font-size: 0.8em;"><b>[Sep 20 2025]</b> 🎉🎉 One paper on multi modal safety is accepted to the SafeMM-AI Workshop, ICCV 2025</li>
-     </ul>
-   </div>
+
+<h3>🎉 News</h3>
+<div style="max-height:200px; overflow-y:auto; border:1px solid #eee; padding:10px; border-radius:10px; margin-bottom:5px;">
+  <ul>
+    <li style="font-size: 0.8em;"><b>[Nov 24 2025]</b> 🎓🎓 Completed ICT Innovation Square's Quantum Machine Learning course (160hrs)</li>
+  </ul>
+</div>
+
+<div style="max-height:200px; overflow-y:auto; border:1px solid #eee; padding:10px; border-radius:10px; margin-top:0;">
+  <ul>
+    <li style="font-size: 0.8em;"><b>[Sep 20 2025]</b> 🎉🎉 One paper on multi modal safety is accepted to the SafeMM-AI Workshop, ICCV 2025</li>
+  </ul>
+</div>
+
 <br>
 
 <section id="Publications">
