@@ -37,11 +37,11 @@ author:
   # orcid            : "https://orcid.org/yourorcidurl"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # Repositories and software development
-  github           : "https://github.com/ppxyn1"
+  github           : "ppxyn1"
 
   # Social media
-  linkedin         : https://www.linkedin.com/in/youngjin-na/ # Username
-  medium           : https://medium.com/@ppxyn1 # URL
+  linkedin         : youngjin-na/ # Username
+  # medium           : https://medium.com/@ppxyn1 # URL
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
