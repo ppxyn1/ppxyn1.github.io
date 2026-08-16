@@ -10,8 +10,8 @@ redirect_from:
 <div class="row">
 <p style="color:#555;">
   I am <b>Youngjin</b>, a Junior Machine Learning Engineer.   
-My research focuses on developing efficient and trustworthy AI systems 🖥️ that contribute to solving real-world challenges—like protecting polar bears and our society 🐻‍❄️🌏.
-Recently, I have been focusing on optimization techniques and multimodal learning, particularly safety in vision-language models.
+My research focuses on developing Multimodal and trustworthy AI systems 🖥️ that contribute to solving real-world challenges—like protecting polar bears and our society 🐻‍❄️🌏.
+Recently, I have been focusing on multimodal learning, particularly safety in ALM and VLM.
 I aspire to practice <a href="https://www.youtube.com/watch?v=3JLekB-NV8o" target="_blank"
 style="color:#8e7cc3; text-decoration:none;">
   Trust, reliability, and safety in AI ft. Daniela Amodei of Anthropic and Sonya Huang
@@ -27,7 +27,7 @@ style="color:#8e7cc3; text-decoration:none;">
     <ul>
       <li>Multimodal learning</li>
       <li>Safe and Trustworthy AI Systems</li>
-      <li>Efficient neural networks</li>
+      <li>Reinforcement Learning</li>
       <li>Quantum Machine Learning</li>
     </ul>
   </div>
@@ -51,6 +51,21 @@ style="color:#8e7cc3; text-decoration:none;">
 
 
 <h3>🎉 News</h3>
+<div style="max-height:200px; overflow-y:auto; border:1px solid #eee; padding:10px; border-radius:10px; margin-bottom:5px;">
+<ul>
+  <li style="font-size: 0.8em;">
+    <b>[July 02 2026]</b> 🎓🎓 Completed the
+    <a href="https://pseudo-lab.com/projects/ec2c9aea-c62f-4123-a095-6b9442b9e811"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#8e7cc3; text-decoration:none;">
+      Stanford CS224R Deep RL Study
+    </a>
+    as a Pseudo-Lab Runner (16 weeks)
+  </li>
+</ul>
+</div>
+
 <div style="max-height:200px; overflow-y:auto; border:1px solid #eee; padding:10px; border-radius:10px; margin-bottom:5px;">
   <ul>
     <li style="font-size: 0.8em;"><b>[Nov 24 2025]</b> 🎓🎓 Completed ICT Innovation Square's Quantum Machine Learning course (160hrs)</li>
